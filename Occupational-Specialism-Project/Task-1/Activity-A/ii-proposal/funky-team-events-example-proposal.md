@@ -260,7 +260,11 @@ A simple risk table has been developed for the local prototype – a more detail
 - The platform will be designed to comply with any specific regulations in the corporate leisure sector, including health and safety guidelines for team-building activities.
 - The development process will adhere to industry best practices and standards, including secure coding practices and thorough documentation.
 
-## Activity B
+## Site Map
+
+- **Site Map**: ![Placeholder for Site Map](placeholder_for_image "Site Map")
+
+## Activity B (to be continued)
 
 ### Visual Components
 
@@ -278,7 +282,5 @@ The chosen palette of bold reds, deep maroons, vibrant pinks, and bright purple 
 
 This palette aligns with FunkyTeam’s innovative and creative brand identity, making the platform stand out in the corporate environment. The vibrant colours help maintain user engagement by drawing attention to key features and actions, enhancing usability. The emotional impact of these colours fosters a positive and stimulating user experience, encouraging active participation and enjoyment in team-building events.
 
-### User Interface Designs
 
-- **Site Map**: ![Placeholder for Site Map](placeholder_for_image "Site Map")
 
