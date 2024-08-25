@@ -278,8 +278,6 @@ The chosen palette of bold reds, deep maroons, vibrant pinks, and bright purple 
 
 This palette aligns with FunkyTeam’s innovative and creative brand identity, making the platform stand out in the corporate environment. The vibrant colours help maintain user engagement by drawing attention to key features and actions, enhancing usability. The emotional impact of these colours fosters a positive and stimulating user experience, encouraging active participation and enjoyment in team-building events.
 
-I would like to find some similar quirky copyright-free images for the website.
-
 ### User Interface Designs
 
 - **Site Map**: ![Placeholder for Site Map](placeholder_for_image "Site Map")
