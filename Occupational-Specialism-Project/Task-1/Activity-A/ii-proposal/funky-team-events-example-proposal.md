@@ -270,9 +270,9 @@ For **"FunkyTeam Connect"**, the brand's vibe should strike a balance between pr
 
 Here are some colour palettes I looked at from Adobe Color:
 
-- ![Funky Modern Vibe](placeholder_for_image "Funky Modern Vibe")
-- ![Retro Funk](placeholder_for_image "Retro Funk")
-- ![Strong and Vibrant](placeholder_for_image "Strong and Vibrant")
+- ![Funky Modern Vibe](images/adobecolor1.png "Funky Modern Vibe")
+- ![Retro Funk](images/adobecolor2.png "Retro Funk")
+- ![Strong and Vibrant](images/adobecolor3.png "Strong and Vibrant")
 
 The chosen palette of bold reds, deep maroons, vibrant pinks, and bright purple creates an energetic and engaging vibe for FunkyTeam Connect. Red signifies action and enthusiasm, setting a dynamic tone, while pink and purple add a playful touch, making the platform feel lively and approachable. This combination ensures that team-building activities are seen as fun and enjoyable rather than just another work task.
 
