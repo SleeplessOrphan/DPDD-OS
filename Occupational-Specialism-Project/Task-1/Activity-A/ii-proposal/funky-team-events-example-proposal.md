@@ -69,8 +69,8 @@ Team-building providers must also navigate various regulations. These include sa
 #### 1. **Interactive Event Planner Tool**
 
    - **Step-by-Step Event Creation Process**
+     - Identify user requirements
      - Design the user interface (UI) for the event creation wizard.
-     - Implement AI-powered recommendations based on user input (e.g., company size, goals).
      - Integrate real-time pricing and availability updates.
      - Develop a booking system with options for customising activities, duration, and participant numbers.
 
@@ -96,7 +96,7 @@ Team-building providers must also navigate various regulations. These include sa
      - Develop a module for analysing feedback and integrating it with engagement metrics.
 
    - **Reporting Tools**
-     - Design and develop comprehensive report templates that can be customised by users.
+     - Design and develop report templates that can be customised by users.
      - Implement functionality for exporting reports in various formats (e.g., PDF, Excel).
      - Integrate visualisation tools (e.g., charts, graphs) to make reports easy to understand.
 
@@ -160,7 +160,7 @@ Team-building providers must also navigate various regulations. These include sa
 
    - **Security**
      - Implement end-to-end encryption for all data transmitted and stored.
-     - Ensure compliance with GDPR, CCPA, and other relevant data protection regulations.
+     - Ensure compliance with UKGDPR and other relevant regulations.
      - Conduct regular security audits and penetration testing to identify and mitigate vulnerabilities.
 
    - **Performance Optimisation**
@@ -173,7 +173,7 @@ Team-building providers must also navigate various regulations. These include sa
    - **Data Security**
      - Develop and implement data encryption strategies.
      - Set up regular security audits and vulnerability assessments.
-     - Ensure a robust incident response plan is in place.
+     - Ensure an incident response plan is in place.
 
    - **User Adoption**
      - Conduct user testing to refine the platform’s usability.
@@ -181,7 +181,7 @@ Team-building providers must also navigate various regulations. These include sa
      - Implement a feedback loop to continually improve the user experience based on client input.
 
    - **Compliance and Legal**
-     - Ensure all platform features comply with international data protection regulations.
+     - Ensure all platform features comply with data protection regulations.
      - Regularly update legal policies and user agreements to reflect changes in law.
      - Implement tools to help corporate clients meet their own compliance requirements.
 
@@ -254,7 +254,7 @@ A simple risk table has been developed for the local prototype – a more detail
 
 ## Regulatory Compliance
 
-- The solution will be fully compliant with GDPR, CCPA, and other relevant data protection regulations, including features for data anonymization and user consent management.
+- The solution will be fully compliant with UKGDPR, and other relevant regulations, including features for data anonymisation and user consent management.
 - Adherence to WCAG 2.1 AA standards ensures the platform is accessible to users with disabilities, complying with accessibility laws.
 - The system will include features to support corporate compliance requirements such as audit trails and reporting tools.
 - The platform will be designed to comply with any specific regulations in the corporate leisure sector, including health and safety guidelines for team-building activities.
@@ -262,7 +262,55 @@ A simple risk table has been developed for the local prototype – a more detail
 
 ## Site Map
 
-- **Site Map**: ![Placeholder for Site Map](placeholder_for_image "Site Map")
+- **Site Map**: 
+
+Home
+│
+├── About Us
+│   ├── Our Story
+│   ├── Mission & Vision
+│   ├── Team
+│   └── Testimonials
+│
+├── Services
+│   ├── In-Person Workshops
+│   ├── Company Retreats
+│   ├── Virtual Team Activities
+│   ├── Leadership Training
+│   ├── Themed Corporate Events
+│   ├── Customisable Event Options
+│   │   ├── Environmentally Friendly Events
+│   │   ├── Socially Responsible Options
+│   │   └── Health and Well-being Focused Events
+│   └── Seasonal Specials
+│
+├── Technology & Innovation
+│   ├── Virtual Reality Integration
+│   ├── Custom Apps
+│   └── Real-Time Engagement Tools
+│
+├── Case Studies
+│   ├── Success Stories
+│   ├── Industry Impact
+│   └── Client Feedback
+│
+├── Blog
+│   ├── Industry Trends
+│   ├── Team Building Tips
+│   ├── Leadership Insights
+│   └── Event Planning Guides
+│
+├── Contact Us
+│   ├── Get a Quote
+│   ├── Consultation Booking
+│   └── FAQs
+│
+└── Client Portal
+    ├── Event Planner Tool
+    ├── Real-Time Engagement Metrics
+    ├── Feedback Dashboard
+    └── Admin Control Centre
+
 
 ## Activity B (to be continued)
 
