@@ -48,7 +48,7 @@ Team-building providers must also navigate various regulations. These include sa
 |------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
 | **Interactive Event Planner Tool** | A step-by-step guide for designing custom team-building events, integrated with a booking system and offering customisation options for activities, duration, and participant numbers. | This directly addresses the client's need to streamline the booking and customisation process.      |
 | **Real-Time Engagement Metrics and Feedback** | Live tracking of participant engagement during virtual events, post-event feedback collection and analysis, and generation of detailed reports on team performance and outcomes. | This fulfils the client's requirement for tools to track and measure team engagement and outcomes. |
-| **Customizable Activity Library** | A database of team-building activities with filtering and search functionality, and the ability to customise activities based on corporate needs and goals. | This meets the client's need for a library of team-building activities with customisation options.  |
+| **Customisable Activity Library** | A database of team-building activities with filtering and search functionality, and the ability to customise activities based on corporate needs and goals. | This meets the client's need for a library of team-building activities with customisation options.  |
 | **User Account Management** | Secure login for corporate clients, profile management and preferences storage, and history of past events and analytics. | While not explicitly requested by the client, this feature is essential for providing a personalised experience to corporate clients. It allows for easier repeat bookings and helps track client preferences over time. |
 | **Admin Dashboard** | Event management and oversight, user management, and analytics and reporting tools. | This requirement supports the client's need for tools to track engagement and outcomes and make data-driven decisions about the business. |
 
@@ -64,7 +64,127 @@ Team-building providers must also navigate various regulations. These include sa
 
 ## Problem Decomposition
 
-*Details of the decomposition would be outlined here.*
+### Problem Decomposition for "FunkyTeam Connect"
+
+#### 1. **Interactive Event Planner Tool**
+
+   - **Step-by-Step Event Creation Process**
+     - Design the user interface (UI) for the event creation wizard.
+     - Implement AI-powered recommendations based on user input (e.g., company size, goals).
+     - Integrate real-time pricing and availability updates.
+     - Develop a booking system with options for customising activities, duration, and participant numbers.
+
+   - **Customisation Options**
+     - Create modules to allow customisation of activities.
+     - Provide options for custom themes or branding for corporate clients.
+     - Implement functionality for saving and loading event templates.
+
+   - **Integration with Calendar and Notification Systems**
+     - Sync with corporate calendars (e.g., Google Calendar, Outlook).
+     - Set up automated email and SMS notifications for booking confirmations and reminders.
+
+#### 2. **Real-Time Engagement Metrics and Feedback**
+
+   - **Live Tracking of Participant Engagement**
+     - Develop a system to capture real-time data during virtual events (e.g., attendance, participation levels).
+     - Implement algorithms to analyse engagement data and generate real-time metrics.
+     - Design interactive dashboards to display engagement metrics to event organisers.
+
+   - **Post-Event Feedback Collection**
+     - Create a survey tool for collecting feedback from participants after events.
+     - Implement an automated system to send out feedback requests post-event.
+     - Develop a module for analysing feedback and integrating it with engagement metrics.
+
+   - **Reporting Tools**
+     - Design and develop comprehensive report templates that can be customised by users.
+     - Implement functionality for exporting reports in various formats (e.g., PDF, Excel).
+     - Integrate visualisation tools (e.g., charts, graphs) to make reports easy to understand.
+
+#### 3. **Customisable Activity Library**
+
+   - **Activity Database**
+     - Build a structured database to store details of all team-building activities.
+     - Implement advanced search and filtering options based on activity type, duration, and other criteria.
+     - Develop a user interface for browsing and selecting activities.
+
+   - **Customisation of Activities**
+     - Allow users to modify activities to suit specific corporate needs.
+     - Implement drag-and-drop functionality for easy customisation.
+     - Develop a preview feature to show how customised activities will look.
+
+   - **Content Management System (CMS)**
+     - Develop a CMS for administrators to update and manage the activity library.
+     - Implement version control for activities to track changes and updates.
+     - Integrate user-generated content options, allowing clients to submit and share their own activities.
+
+#### 4. **Virtual Event Space**
+
+   - **Integrated Video Conferencing**
+     - Implement video conferencing tools within the platform (e.g., using WebRTC, integrating with Zoom or Microsoft Teams).
+     - Develop features for interactive whiteboards, screen sharing, and breakout rooms.
+     - Ensure the system supports high-quality video and audio streaming.
+
+   - **Collaboration Tools**
+     - Develop chat and messaging systems for real-time communication during events.
+     - Integrate collaborative document editing (e.g., Google Docs-like functionality).
+     - Implement gamification elements (e.g., leaderboards, quizzes) to increase engagement.
+
+   - **Gamification and Engagement Features**
+     - Develop interactive tools like polls, quizzes, and games to be used during virtual events.
+     - Implement a points system or badges to reward participation.
+     - Ensure all engagement features are seamlessly integrated into the video conferencing tool.
+
+#### 5. **Admin Control Centre**
+
+   - **Event Management**
+     - Create a dashboard for admins to oversee all planned and ongoing events.
+     - Implement tools for assigning roles and permissions to different users.
+     - Develop features for tracking event progress and status.
+
+   - **User Management**
+     - Implement secure login and authentication systems.
+     - Develop user profile management features, including the ability to manage preferences and access levels.
+     - Integrate analytics tools to track user activity and engagement on the platform.
+
+   - **Business Intelligence and Analytics Tools**
+     - Develop analytics dashboards for tracking key performance indicators (KPIs) related to events.
+     - Implement reporting tools that provide insights into operational efficiency, user engagement, and financial performance.
+     - Integrate tools for forecasting and trend analysis to support business decisions.
+
+#### 6. **Technical Infrastructure**
+
+   - **Scalability**
+     - Design a cloud-native microservices architecture to handle varying loads and ensure scalability.
+     - Implement auto-scaling and load balancing to manage traffic during peak usage times.
+     - Ensure the system can scale both horizontally and vertically as needed.
+
+   - **Security**
+     - Implement end-to-end encryption for all data transmitted and stored.
+     - Ensure compliance with GDPR, CCPA, and other relevant data protection regulations.
+     - Conduct regular security audits and penetration testing to identify and mitigate vulnerabilities.
+
+   - **Performance Optimisation**
+     - Optimise code and database queries to ensure fast load times.
+     - Implement caching strategies to reduce server load and improve response times.
+     - Monitor and manage system performance using tools like APM (Application Performance Management).
+
+#### 7. **Risk Management**
+
+   - **Data Security**
+     - Develop and implement data encryption strategies.
+     - Set up regular security audits and vulnerability assessments.
+     - Ensure a robust incident response plan is in place.
+
+   - **User Adoption**
+     - Conduct user testing to refine the platform’s usability.
+     - Develop onboarding and training materials for new users.
+     - Implement a feedback loop to continually improve the user experience based on client input.
+
+   - **Compliance and Legal**
+     - Ensure all platform features comply with international data protection regulations.
+     - Regularly update legal policies and user agreements to reflect changes in law.
+     - Implement tools to help corporate clients meet their own compliance requirements.
+
 
 ## Key Performance Indicators
 
@@ -112,11 +232,11 @@ The proposed digital solution, **"FunkyTeam Connect"**, is designed as a web-bas
   
 - **Virtual Event Space**: Optimised for team-building activities, this space includes an integrated video conferencing solution with interactive whiteboards, collaboration tools, and gamification elements to boost engagement, enhancing the overall virtual team-building experience.
   
-- **Admin Control Center**: Provides oversight of all planned and ongoing events, including user management, access control, and analytics tools for business intelligence, supporting efficient administration and operational control.
+- **Admin Control Centre**: Provides oversight of all planned and ongoing events, including user management, access control, and analytics tools for business intelligence, supporting efficient administration and operational control.
   
 Built using a cloud-native microservices architecture, the solution ensures scalability and maintainability with a responsive design for seamless functionality across desktop and mobile devices.
 
-Meeting client and user needs is at the core of FunkyTeam Connect. The streamlined booking process offered by the Interactive Event Planner simplifies event creation, addressing the client's need for efficiency. The Virtual Event Space, equipped with integrated engagement tools, directly enhances virtual team-building experiences. Real-time analytics and reporting features in the Engagement Analytics Dashboard fulfill the client's requirement for tools to measure team engagement and outcomes. The Dynamic Activity Library's customisation options meet both the client's and users' needs for tailored team-building experiences. The intuitive design of FunkyTeam Connect ensures that both corporate clients and FunkyTeam Events staff can easily navigate and utilise the platform.
+Meeting client and user needs is at the core of FunkyTeam Connect. The streamlined booking process offered by the Interactive Event Planner simplifies event creation, addressing the client's need for efficiency. The Virtual Event Space, equipped with integrated engagement tools, directly enhances virtual team-building experiences. Real-time analytics and reporting features in the Engagement Analytics Dashboard fulfil the client's requirement for tools to measure team engagement and outcomes. The Dynamic Activity Library's customisation options meet both the client's and users' needs for tailored team-building experiences. The intuitive design of FunkyTeam Connect ensures that both corporate clients and FunkyTeam Events staff can easily navigate and utilise the platform.
 
 ## Risk Mitigation
 
@@ -125,7 +245,7 @@ A simple risk table has been developed for the local prototype – a more detail
 | Risk                     | Impact                               | Likelihood (1=Low – 3=High) | Mitigation Strategy                                                 |
 |--------------------------|--------------------------------------|----------------------------|----------------------------------------------------------------------|
 | **Data Security Breach** | Loss of sensitive information        | 2                          | Implement encryption, conduct regular security audits               |
-| **User Adoption Resistance** | Low usage of the platform            | 3                          | Ensure robust user-centered design and provide suitable training     |
+| **User Adoption Resistance** | Low usage of the platform            | 3                          | Ensure robust user-centred design and provide suitable training     |
 | **Scalability Issues**   | Poor performance under high load     | 2                          | Design scalable architecture, optimise code for performance          |
 | **Technical Bugs**       | Reduced functionality and user frustration | 3                      | Perform rigorous testing                                             |
 | **Data Loss**            | Loss of important user data          | 1                          | Regular backups, use reliable local storage solutions                |
