@@ -46,10 +46,10 @@ Team-building providers must also navigate various regulations. These include sa
 
 | Requirement                        | Description                                                                                                                                                 | Justification                                                                                      |
 |------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
-| **Interactive Event Planner Tool** | A step-by-step guide for designing custom team-building events, integrated with a booking system and offering customization options for activities, duration, and participant numbers. | This directly addresses the client's need to streamline the booking and customization process.      |
-| **Real-Time Engagement Metrics and Feedback** | Live tracking of participant engagement during virtual events, post-event feedback collection and analysis, and generation of detailed reports on team performance and outcomes. | This fulfills the client's requirement for tools to track and measure team engagement and outcomes. |
-| **Customizable Activity Library** | A comprehensive database of team-building activities with filtering and search functionality, and the ability to customize activities based on corporate needs and goals. | This meets the client's need for a library of team-building activities with customization options.  |
-| **User Account Management** | Secure login for corporate clients, profile management and preferences storage, and history of past events and analytics. | While not explicitly requested by the client, this feature is essential for providing a personalized experience to corporate clients. It allows for easier repeat bookings and helps track client preferences over time. |
+| **Interactive Event Planner Tool** | A step-by-step guide for designing custom team-building events, integrated with a booking system and offering customisation options for activities, duration, and participant numbers. | This directly addresses the client's need to streamline the booking and customisation process.      |
+| **Real-Time Engagement Metrics and Feedback** | Live tracking of participant engagement during virtual events, post-event feedback collection and analysis, and generation of detailed reports on team performance and outcomes. | This fulfils the client's requirement for tools to track and measure team engagement and outcomes. |
+| **Customizable Activity Library** | A database of team-building activities with filtering and search functionality, and the ability to customise activities based on corporate needs and goals. | This meets the client's need for a library of team-building activities with customisation options.  |
+| **User Account Management** | Secure login for corporate clients, profile management and preferences storage, and history of past events and analytics. | While not explicitly requested by the client, this feature is essential for providing a personalised experience to corporate clients. It allows for easier repeat bookings and helps track client preferences over time. |
 | **Admin Dashboard** | Event management and oversight, user management, and analytics and reporting tools. | This requirement supports the client's need for tools to track engagement and outcomes and make data-driven decisions about the business. |
 
 ## Non-Functional Requirements
@@ -72,14 +72,14 @@ Team-building providers must also navigate various regulations. These include sa
 |------------------------|----------------------------------------------------------------------------|----------|-------------------------------------------------------------------------------|
 | **User Engagement**     | Percentage of corporate clients using the platform for event booking within 6 months | 80%      | Measures adoption rate, indicating platform effectiveness and user-friendliness. |
 |                        | Increase in repeat bookings within the first year                          | 50%      | Reflects customer satisfaction and platform’s ability to meet client needs, encouraging return bookings. |
-| **Operational Efficiency** | Reduction in time spent on manual event planning and customization         | 30%      | Automates planning process, freeing up time for staff and improving productivity. |
+| **Operational Efficiency** | Reduction in time spent on manual event planning and customisation         | 30%      | Automates planning process, freeing up time for staff and improving productivity. |
 |                        | Increase in the number of events managed per staff member                  | 25%      | Demonstrates platform’s capability to streamline operations, allowing staff to handle more events efficiently. |
 | **Customer Satisfaction** | Average user satisfaction rating                                          | 4.5/5 stars | Indicates that the platform meets or exceeds user expectations. |
 |                        | Reduction in customer support inquiries within the first year              | 40%      | Suggests that the platform is intuitive and easy to use, reducing the need for additional support. |
 | **Financial Performance** | Increase in revenue from virtual team-building events in the first year   | 20%      | Shows platform’s potential to generate additional income through enhanced virtual event offerings. |
 |                        | Reduction in operational costs due to improved efficiency                   | 15%      | Improved operational efficiency leads to cost savings, boosting the company’s profitability. |
 
-Choosing a range of KPI types ensures a comprehensive evaluation of the platform's performance by covering different dimensions such as user engagement, operational efficiency, customer satisfaction, and financial performance. Each type of KPI provides unique insights, allowing for a balanced perspective that avoids overemphasising any single aspect. This holistic approach aligns with the strategic goals of FunkyTeam Events, ensuring that critical success factors are measured accurately.
+Choosing a range of KPI types ensures an evaluation of the platform's performance by covering different dimensions such as user engagement, operational efficiency, customer satisfaction, and financial performance. Each type of KPI provides unique insights, allowing for a balanced perspective that avoids overemphasising any single aspect. This holistic approach aligns with the strategic goals of FunkyTeam Events, ensuring that critical success factors are measured accurately.
 
 Using varied KPIs also addresses the interests of different stakeholders, from clients and employees to investors. It helps identify areas needing improvement across various dimensions, leading to a well-rounded enhancement of the platform. This method ensures that the platform not only meets user needs but also improves internal processes and financial health, supporting long-term success and sustainability.
 
@@ -90,19 +90,19 @@ Using varied KPIs also addresses the interests of different stakeholders, from c
 | **Event Planner Tool**  | Users can create a custom event in less than 10 minutes                | Streamlined process for custom event creation                | Ensures efficiency and convenience, encouraging users to utilise the platform for event planning. |
 |                         | 90% of users rate the tool as "easy to use" or "very easy to use"       | User-friendly interface and intuitive design                 | High usability increases user satisfaction and likelihood of repeat usage. |
 | **Engagement Metrics**  | Real-time metrics update at least every 30 seconds during live events  | Frequent updates during events to monitor engagement         | Provides timely and actionable insights, enhancing event management and participant engagement. |
-|                         | Generated reports are comprehensive and easy to understand for 95% of users | Clear and detailed reporting on engagement metrics           | Ensures users can effectively interpret data to assess event success and areas for improvement. |
+|                         | Generated reports are easy to understand for 95% of users | Clear and detailed reporting on engagement metrics           | Ensures users can effectively interpret data to assess event success and areas for improvement. |
 | **Activity Library**    | Users can find relevant activities within 3 clicks                     | Efficient navigation and search functionality                | Reduces time and effort required to locate desired activities, improving user experience. |
-|                         | 85% of users report that the customization options meet their needs    | Customisable options for activities                          | Meets diverse user needs, enhancing satisfaction and the platform's versatility. |
+|                         | 85% of users report that the customisation options meet their needs    | Customisable options for activities                          | Meets diverse user needs, enhancing satisfaction and the platform's versatility. |
 | **Overall System Performance** | Page load times are under 3 seconds for 95% of users                  | Fast loading times                                           | Improves user experience by reducing wait times and potential frustration. |
 |                         | System uptime meets or exceeds the 99.9% guarantee                     | High system reliability and availability                     | Ensures consistent access to the platform, building user trust and reliability. |
 
-The user acceptance criteria were chosen to ensure the platform provides an efficient and satisfying experience for users, addressing key aspects of functionality, usability, engagement, and performance. The criteria for the Event Planner Tool focus on efficiency and user-friendliness, enabling users to create custom events quickly and ensuring high usability, which encourages repeat use and positive feedback. Engagement metrics that update in real-time and provide comprehensive, easy-to-understand reports are essential for effective event management, allowing organisers to maximise participant engagement and evaluate event success accurately.
+The user acceptance criteria were chosen to ensure the platform provides an efficient and satisfying experience for users, addressing key aspects of functionality, usability, engagement, and performance. The criteria for the Event Planner Tool focus on efficiency and user-friendliness, enabling users to create custom events quickly and ensuring high usability, which encourages repeat use and positive feedback. Engagement metrics that update in real-time and provide easy-to-understand reports are essential for effective event management, allowing organisers to maximise participant engagement and evaluate event success accurately.
 
 Accessibility and customisation in the Activity Library ensure users can find relevant activities quickly and tailor events to their specific needs, enhancing overall satisfaction. Fast page load times and high system uptime are crucial for a smooth and reliable user experience, building trust and encouraging ongoing use. These criteria collectively ensure the platform meets user needs effectively, fostering a positive experience that promotes continued engagement and satisfaction, ultimately supporting the platform’s long-term success.
 
 ## Description
 
-The proposed digital solution, **"FunkyTeam Connect"**, is designed as a comprehensive web-based platform to elevate user experience and operational efficiency for corporate team-building events. It comprises several key components, each tailored to meet specific needs.
+The proposed digital solution, **"FunkyTeam Connect"**, is designed as a web-based platform to elevate user experience and operational efficiency for corporate team-building events. It comprises several key components, each tailored to meet specific needs.
 
 - **Interactive Event Planner**: A user-friendly interface guides corporate clients through event design, offering AI-powered recommendations based on company size, goals, and preferences, and providing real-time pricing and availability updates. This streamlines the booking process, making it more efficient and user-friendly.
   
@@ -112,7 +112,7 @@ The proposed digital solution, **"FunkyTeam Connect"**, is designed as a compreh
   
 - **Virtual Event Space**: Optimised for team-building activities, this space includes an integrated video conferencing solution with interactive whiteboards, collaboration tools, and gamification elements to boost engagement, enhancing the overall virtual team-building experience.
   
-- **Admin Control Center**: Provides comprehensive oversight of all planned and ongoing events, including user management, access control, and analytics tools for business intelligence, supporting efficient administration and operational control.
+- **Admin Control Center**: Provides oversight of all planned and ongoing events, including user management, access control, and analytics tools for business intelligence, supporting efficient administration and operational control.
   
 Built using a cloud-native microservices architecture, the solution ensures scalability and maintainability with a responsive design for seamless functionality across desktop and mobile devices.
 
@@ -120,7 +120,7 @@ Meeting client and user needs is at the core of FunkyTeam Connect. The streamlin
 
 ## Risk Mitigation
 
-A simple risk table has been developed for the local prototype – a more comprehensive risk assessment would be needed for the full application.
+A simple risk table has been developed for the local prototype – a more detailed risk assessment would be needed for the full application.
 
 | Risk                     | Impact                               | Likelihood (1=Low – 3=High) | Mitigation Strategy                                                 |
 |--------------------------|--------------------------------------|----------------------------|----------------------------------------------------------------------|
