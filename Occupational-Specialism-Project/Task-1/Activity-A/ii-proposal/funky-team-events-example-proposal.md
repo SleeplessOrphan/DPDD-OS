@@ -264,52 +264,58 @@ A simple risk table has been developed for the local prototype – a more detail
 
 - **Site Map**: 
 
-Home
-│
-├── About Us
-│   ├── Our Story
-│   ├── Mission & Vision
-│   ├── Team
-│   └── Testimonials
-│
-├── Services
-│   ├── In-Person Workshops
-│   ├── Company Retreats
-│   ├── Virtual Team Activities
-│   ├── Leadership Training
-│   ├── Themed Corporate Events
-│   ├── Customisable Event Options
-│   │   ├── Environmentally Friendly Events
-│   │   ├── Socially Responsible Options
-│   │   └── Health and Well-being Focused Events
-│   └── Seasonal Specials
-│
-├── Technology & Innovation
-│   ├── Virtual Reality Integration
-│   ├── Custom Apps
-│   └── Real-Time Engagement Tools
-│
-├── Case Studies
-│   ├── Success Stories
-│   ├── Industry Impact
-│   └── Client Feedback
-│
-├── Blog
-│   ├── Industry Trends
-│   ├── Team Building Tips
-│   ├── Leadership Insights
-│   └── Event Planning Guides
-│
-├── Contact Us
-│   ├── Get a Quote
-│   ├── Consultation Booking
-│   └── FAQs
-│
-└── Client Portal
-    ├── Event Planner Tool
-    ├── Real-Time Engagement Metrics
-    ├── Feedback Dashboard
-    └── Admin Control Centre
+# Proposed Website Sitemap for FunkyTeam Events
+
+- **Home**
+
+- **About Us**
+  - Our Story
+  - Mission & Vision
+  - Team
+  - Testimonials
+
+- **Services**
+  - In-Person Workshops
+  - Company Retreats
+  - Virtual Team Activities
+  - Leadership Training
+  - Themed Corporate Events
+  - Customisable Event Options
+    - Environmentally Friendly Events
+    - Socially Responsible Options
+    - Health and Well-being Focused Events
+  - Seasonal Specials
+
+- **Technology & Innovation**
+  - Virtual Reality Integration
+  - Custom Apps
+  - Real-Time Engagement Tools
+
+- **Case Studies**
+  - Success Stories
+  - Industry Impact
+  - Client Feedback
+
+- **Blog**
+  - Industry Trends
+  - Team Building Tips
+  - Leadership Insights
+  - Event Planning Guides
+
+- **Contact Us**
+  - Get a Quote
+  - Consultation Booking
+  - FAQs
+
+- **Client Portal**
+  - Event Planner Tool
+  - Real-Time Engagement Metrics
+  - Feedback Dashboard
+  - Admin Control Centre
+
+![Site Map](https://github.com/SleeplessOrphan/DPDD-OS/blob/f174ae0f61b1e03bcc65e88991a84c04a32c0f6d/images/FunkyTeamSitemap.jpg "Site map for FunkyTeam Connect")
+
+
 
 
 ## Activity B (to be continued)
