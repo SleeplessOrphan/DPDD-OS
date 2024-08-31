@@ -14,7 +14,7 @@ The corporate team-building industry offers a wide range of services, including:
 - Leadership training
 - Themed corporate events
 
-With the rise of remote work, there has been a particular increase in demand for virtual and hybrid team-building solutions that can engage distributed teams effectively.
+With the rise of remote work, there has been an increase in demand for virtual and hybrid team-building solutions that can engage distributed teams effectively.
 
 One aspect of this industry is its seasonal nature. Many companies seek team-building activities at specific times, such as the beginning of the financial year or before major holidays. This creates periods of high demand that team-building providers must be prepared to meet.
 
